@@ -1,0 +1,11 @@
+C:\DMDII Project\VAP Container\Repo\vap\AAP\PrimitiveClassificationOfTessellatedSolids\bin\Release\PrimitiveClassificationOfTessellatedSolids.dll
+C:\DMDII Project\VAP Container\Repo\vap\AAP\PrimitiveClassificationOfTessellatedSolids\bin\Release\PrimitiveClassificationOfTessellatedSolids.pdb
+C:\DMDII Project\VAP Container\Repo\vap\AAP\PrimitiveClassificationOfTessellatedSolids\bin\Release\MIConvexHull.dll
+C:\DMDII Project\VAP Container\Repo\vap\AAP\PrimitiveClassificationOfTessellatedSolids\bin\Release\StarMath.dll
+C:\DMDII Project\VAP Container\Repo\vap\AAP\PrimitiveClassificationOfTessellatedSolids\bin\Release\TessellationAndVoxelizationGeometryLibrary.dll
+C:\DMDII Project\VAP Container\Repo\vap\AAP\PrimitiveClassificationOfTessellatedSolids\bin\Release\MIConvexHull.pdb
+C:\DMDII Project\VAP Container\Repo\vap\AAP\PrimitiveClassificationOfTessellatedSolids\bin\Release\StarMath.pdb
+C:\DMDII Project\VAP Container\Repo\vap\AAP\PrimitiveClassificationOfTessellatedSolids\bin\Release\TessellationAndVoxelizationGeometryLibrary.pdb
+C:\DMDII Project\VAP Container\Repo\vap\AAP\PrimitiveClassificationOfTessellatedSolids\obj\Release\PrimitiveClassificationOfTessellatedSolids.dll
+C:\DMDII Project\VAP Container\Repo\vap\AAP\PrimitiveClassificationOfTessellatedSolids\obj\Release\PrimitiveClassificationOfTessellatedSolids.pdb
+C:\DMDII Project\VAP Container\Repo\vap\AAP\PrimitiveClassificationOfTessellatedSolids\obj\Release\PrimitiveClassificationOfTessellatedSolids.csprojResolveAssemblyReference.cache
